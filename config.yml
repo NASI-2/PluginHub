@@ -1,0 +1,44 @@
+# Plugin version 1.0.0
+
+# Direct URL download command switch.
+# false: /pluginhub download <url> is blocked by default.
+download:
+  enabled: false
+
+# Registry source and cache settings.
+registry:
+  # Example:
+  # url: "https://example.com/pluginhub-registry.json"
+  url: ""
+  # Local file to cache the registry JSON
+  cache-file: "registry-cache.json"
+  # HTTP connection timeout in milliseconds
+  connect-timeout-ms: 10000
+  # HTTP read timeout in milliseconds
+  read-timeout-ms: 15000
+
+  # PluginHub registry auto-update on shutdown (delete old default-registry.json, download latest from GitHub)
+  # Note: If external registry URL is configured in registry.url, the external registry is prioritized over this setting.
+  auto-registry-update:
+    enabled: true
+
+doctor:
+  # repository: Check dependencies from registry data
+  # plugin: Check dependencies from loaded plugin descriptions
+  dependency-source: repository
+
+# Require confirmation before install/remove/update operations
+confirmations:
+  enabled: true
+
+# PluginHub plugin self-update on shutdown (delete old PluginHub.jar, download latest from GitHub)
+auto-plugin-update:
+  enabled: false
+
+# Restrict which plugins can be installed (requires additional configuration)
+plugin-restriction:
+  enabled: false
+
+# Enable command policy/role management system
+command-policy:
+  enabled: false

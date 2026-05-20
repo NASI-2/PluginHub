@@ -1,0 +1,12 @@
+name: PluginHub
+version: '${version}'
+
+main: org2.example.pluginHub.PluginHub
+api-version: '1.18'
+load: POSTWORLD
+
+commands:
+  pluginhub:
+    description: Install plugins from PluginHub registry
+    usage: /pluginhub install <name> [version]
+    aliases: [ph]

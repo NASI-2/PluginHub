@@ -1,0 +1,781 @@
+{
+  "Essentials": {
+    "latest": "2.21.2",
+    "versions": {
+      "2.21.2": {
+        "platforms": {
+          "paper": {
+            "url": "https://github.com/EssentialsX/Essentials/releases/download/2.21.2/EssentialsX-2.21.2.jar"
+          },
+          "spigot": {
+            "url": "https://github.com/EssentialsX/Essentials/releases/download/2.21.2/EssentialsX-2.21.2.jar"
+          }
+        },
+        "dependencies": [
+          "Vault"
+        ]
+      },
+      "2.20.0": {
+        "platforms": {
+          "paper": {
+            "url": "https://github.com/EssentialsX/Essentials/releases/download/2.20.0/EssentialsX-2.20.0.jar"
+          },
+          "spigot": {
+            "url": "https://github.com/EssentialsX/Essentials/releases/download/2.20.0/EssentialsX-2.20.0.jar"
+          }
+        },
+        "dependencies": [
+          "Vault"
+        ]
+      },
+      "2.21.1": {
+        "platforms": {
+          "paper": {
+            "url": "https://github.com/EssentialsX/Essentials/releases/download/2.21.1/EssentialsX-2.21.1.jar"
+          },
+          "spigot": {
+            "url": "https://github.com/EssentialsX/Essentials/releases/download/2.21.1/EssentialsX-2.21.1.jar"
+          }
+        },
+        "dependencies": [
+          "Vault"
+        ]
+      },
+      "2.19.7": {
+        "platforms": {
+          "paper": {
+            "url": "https://github.com/EssentialsX/Essentials/releases/download/2.19.7/EssentialsX-2.19.7.jar"
+          },
+          "spigot": {
+            "url": "https://github.com/EssentialsX/Essentials/releases/download/2.19.7/EssentialsX-2.19.7.jar"
+          }
+        },
+        "dependencies": [
+          "Vault"
+        ]
+      },
+      "2.19.6": {
+        "platforms": {
+          "paper": {
+            "url": "https://github.com/EssentialsX/Essentials/releases/download/2.19.6/EssentialsX-2.19.6.jar"
+          },
+          "spigot": {
+            "url": "https://github.com/EssentialsX/Essentials/releases/download/2.19.6/EssentialsX-2.19.6.jar"
+          }
+        },
+        "dependencies": [
+          "Vault"
+        ]
+      },
+      "2.19.4": {
+        "platforms": {
+          "paper": {
+            "url": "https://github.com/EssentialsX/Essentials/releases/download/2.19.4/EssentialsX-2.19.4.jar"
+          },
+          "spigot": {
+            "url": "https://github.com/EssentialsX/Essentials/releases/download/2.19.4/EssentialsX-2.19.4.jar"
+          }
+        },
+        "dependencies": [
+          "Vault"
+        ]
+      },
+      "2.19.3": {
+        "platforms": {
+          "paper": {
+            "url": "https://github.com/EssentialsX/Essentials/releases/download/2.19.3/EssentialsX-2.19.3.jar"
+          },
+          "spigot": {
+            "url": "https://github.com/EssentialsX/Essentials/releases/download/2.19.3/EssentialsX-2.19.3.jar"
+          }
+        },
+        "dependencies": [
+          "Vault"
+        ]
+      },
+      "2.19.2": {
+        "platforms": {
+          "paper": {
+            "url": "https://github.com/EssentialsX/Essentials/releases/download/2.19.2/EssentialsX-2.19.2.jar"
+          },
+          "spigot": {
+            "url": "https://github.com/EssentialsX/Essentials/releases/download/2.19.2/EssentialsX-2.19.2.jar"
+          }
+        },
+        "dependencies": [
+          "Vault"
+        ]
+      },
+      "2.19.1": {
+        "platforms": {
+          "paper": {
+            "url": "https://github.com/EssentialsX/Essentials/releases/download/2.19.1/EssentialsX-2.19.1.jar"
+          },
+          "spigot": {
+            "url": "https://github.com/EssentialsX/Essentials/releases/download/2.19.1/EssentialsX-2.19.1.jar"
+          }
+        },
+        "dependencies": [
+          "Vault"
+        ]
+      },
+      "2.19.0": {
+        "platforms": {
+          "paper": {
+            "url": "https://github.com/EssentialsX/Essentials/releases/download/2.19.0/EssentialsX-2.19.0.jar"
+          },
+          "spigot": {
+            "url": "https://github.com/EssentialsX/Essentials/releases/download/2.19.0/EssentialsX-2.19.0.jar"
+          }
+        },
+        "dependencies": [
+          "Vault"
+        ]
+      },
+      "2.18.2": {
+        "platforms": {
+          "paper": {
+            "url": "https://github.com/EssentialsX/Essentials/releases/download/2.18.2/EssentialsX-2.18.2.jar"
+          },
+          "spigot": {
+            "url": "https://github.com/EssentialsX/Essentials/releases/download/2.18.2/EssentialsX-2.18.2.jar"
+          }
+        },
+        "dependencies": [
+          "Vault"
+        ]
+      },
+      "2.18.1": {
+        "platforms": {
+          "paper": {
+            "url": "https://github.com/EssentialsX/Essentials/releases/download/2.18.1/EssentialsX-2.18.1.jar"
+          },
+          "spigot": {
+            "url": "https://github.com/EssentialsX/Essentials/releases/download/2.18.1/EssentialsX-2.18.1.jar"
+          }
+        },
+        "dependencies": [
+          "Vault"
+        ]
+      },
+      "2.18.0": {
+        "platforms": {
+          "paper": {
+            "url": "https://github.com/EssentialsX/Essentials/releases/download/2.18.0/EssentialsX-2.18.0.0.jar"
+          },
+          "spigot": {
+            "url": "https://github.com/EssentialsX/Essentials/releases/download/2.18.0/EssentialsX-2.18.0.0.jar"
+          }
+        },
+        "dependencies": [
+          "Vault"
+        ]
+      },
+      "2.17.2": {
+        "platforms": {
+          "paper": {
+            "url": "https://github.com/EssentialsX/Essentials/releases/download/2.17.2/EssentialsX-2.17.2.0.jar"
+          },
+          "spigot": {
+            "url": "https://github.com/EssentialsX/Essentials/releases/download/2.17.2/EssentialsX-2.17.2.0.jar"
+          }
+        },
+        "dependencies": [
+          "Vault"
+        ]
+      },
+      "2.17.0": {
+        "platforms": {
+          "paper": {
+            "url": "https://github.com/EssentialsX/Essentials/releases/download/2.17.0/EssentialsX-2.17.0.0.jar"
+          },
+          "spigot": {
+            "url": "https://github.com/EssentialsX/Essentials/releases/download/2.17.0/EssentialsX-2.17.0.0.jar"
+          }
+        },
+        "dependencies": [
+          "Vault"
+        ]
+      },
+      "2.16.1": {
+        "platforms": {
+          "paper": {
+            "url": "https://github.com/EssentialsX/Essentials/releases/download/2.16.1/EssentialsX-2.16.1.0.jar"
+          },
+          "spigot": {
+            "url": "https://github.com/EssentialsX/Essentials/releases/download/2.16.1/EssentialsX-2.16.1.0.jar"
+          }
+        },
+        "dependencies": [
+          "Vault"
+        ]
+      },
+      "2.16.0.3": {
+        "platforms": {
+          "paper": {
+            "url": "https://github.com/EssentialsX/Essentials/releases/download/2.16.0/EssentialsX-2.16.0.3.jar"
+          },
+          "spigot": {
+            "url": "https://github.com/EssentialsX/Essentials/releases/download/2.16.0/EssentialsX-2.16.0.3.jar"
+          }
+        },
+        "dependencies": [
+          "Vault"
+        ]
+      },
+      "2.16-pre4": {
+        "platforms": {
+          "paper": {
+            "url": "https://github.com/EssentialsX/Essentials/releases/download/2.16-pre4/EssentialsX-2.16-pre4.1.jar"
+          },
+          "spigot": {
+            "url": "https://github.com/EssentialsX/Essentials/releases/download/2.16-pre4/EssentialsX-2.16-pre4.1.jar"
+          }
+        },
+        "dependencies": [
+          "Vault"
+        ]
+      },
+      "2.16-pre3": {
+        "platforms": {
+          "paper": {
+            "url": "https://github.com/EssentialsX/Essentials/releases/download/2.16-pre3/EssentialsX-2.16-pre3.0.jar"
+          },
+          "spigot": {
+            "url": "https://github.com/EssentialsX/Essentials/releases/download/2.16-pre3/EssentialsX-2.16-pre3.0.jar"
+          }
+        },
+        "dependencies": [
+          "Vault"
+        ]
+      },
+      "2.15.0.1": {
+        "platforms": {
+          "paper": {
+            "url": "https://github.com/EssentialsX/Essentials/releases/download/2.15.0/EssentialsX-2.15.0.1.jar"
+          },
+          "spigot": {
+            "url": "https://github.com/EssentialsX/Essentials/releases/download/2.15.0/EssentialsX-2.15.0.1.jar"
+          }
+        },
+        "dependencies": [
+          "Vault"
+        ]
+      },
+      "2.0.1": {
+        "platforms": {
+          "paper": {
+            "url": "https://github.com/EssentialsX/Essentials/releases/download/2.0.1-b319/EssentialsX-2.0.1.jar"
+          },
+          "spigot": {
+            "url": "https://github.com/EssentialsX/Essentials/releases/download/2.0.1-b319/EssentialsX-2.0.1.jar"
+          }
+        },
+        "dependencies": [
+          "Vault"
+        ]
+      }
+    }
+  },
+  "worldedit": {
+    "latest": "7.4.3",
+    "versions": {
+      "7.4.3": {
+        "platforms": {
+          "paper": {
+            "url": "https://cdn.modrinth.com/data/1u6JkXh5/versions/yDUBafTJ/worldedit-bukkit-7.4.3.jar?mr_download_reason=standalone&mr_game_version=26.1.2&mr_loader=paper"
+          },
+          "spigot": {
+            "url": "https://cdn.modrinth.com/data/1u6JkXh5/versions/yDUBafTJ/worldedit-bukkit-7.4.3.jar?mr_download_reason=standalone&mr_game_version=26.1.2&mr_loader=spigot"
+          },
+          "Folia": {
+            "url": "https://cdn.modrinth.com/data/1u6JkXh5/versions/yDUBafTJ/worldedit-bukkit-7.4.3.jar?mr_download_reason=standalone&mr_game_version=26.1.2&mr_loader=bukkit"
+          },
+          "bukkit": {
+            "url": "https://cdn.modrinth.com/data/1u6JkXh5/versions/yDUBafTJ/worldedit-bukkit-7.4.3.jar?mr_download_reason=standalone&mr_game_version=26.1.2&mr_loader=bukkit"
+          }
+        }
+      },
+      "7.3.18": {
+        "platforms": {
+          "paper": {
+            "url": "https://cdn.modrinth.com/data/1u6JkXh5/versions/XlUIRmF8/worldedit-bukkit-7.3.18.jar?mr_download_reason=standalone&mr_game_version=1.21.3&mr_loader=paper"
+          },
+          "spigot": {
+            "url": "https://cdn.modrinth.com/data/1u6JkXh5/versions/XlUIRmF8/worldedit-bukkit-7.3.18.jar?mr_download_reason=standalone&mr_game_version=1.21.3&mr_loader=spigot"
+          },
+          "Folia": {
+            "url": "https://cdn.modrinth.com/data/1u6JkXh5/versions/XlUIRmF8/worldedit-bukkit-7.3.18.jar?mr_download_reason=standalone&mr_game_version=1.21.3&mr_loader=bukkit"
+          },
+          "bukkit": {
+            "url": "https://cdn.modrinth.com/data/1u6JkXh5/versions/XlUIRmF8/worldedit-bukkit-7.3.18.jar?mr_download_reason=standalone&mr_game_version=1.21.3&mr_loader=bukkit"
+          }
+        }
+      }
+    }
+  },
+  "LuckPerms": {
+    "latest": "5.5.45",
+    "versions": {
+      "5.5.45": {
+        "platforms": {
+          "paper": {
+            "url": "https://download.luckperms.net/1633/bukkit/loader/LuckPerms-Bukkit-5.5.45.jar"
+          },
+          "spigot": {
+            "url": "https://download.luckperms.net/1633/bukkit/loader/LuckPerms-Bukkit-5.5.45.jar"
+          },
+          "bukkit": {
+            "url": "https://download.luckperms.net/1633/bukkit/loader/LuckPerms-Bukkit-5.5.45.jar"
+          }
+        }
+      }
+    }
+  },
+  "Vault": {
+    "latest": "1.7.3",
+    "versions": {
+      "1.7.3": {
+        "platforms": {
+          "paper": {
+            "url": "https://github.com/MilkBowl/Vault/releases/download/1.7.3/Vault.jar"
+          },
+          "spigot": {
+            "url": "https://github.com/MilkBowl/Vault/releases/download/1.7.3/Vault.jar"
+          },
+          "Folia": {
+            "url": "https://github.com/MilkBowl/Vault/releases/download/1.7.3/Vault.jar"
+          },
+          "bukkit": {
+            "url": "https://github.com/MilkBowl/Vault/releases/download/1.7.3/Vault.jar"
+          }
+        }
+      }
+    }
+  },
+  "WorldGuard": {
+    "latest": "7.0.16",
+    "versions": {
+      "7.0.16": {
+        "platforms": {
+          "paper": {
+            "url": "https://cdn.modrinth.com/data/DKY9btbd/versions/EZl3moba/worldguard-bukkit-7.0.16.jar?mr_download_reason=standalone&mr_game_version=26.1.2&mr_loader=paper"
+          },
+          "spigot": {
+            "url": "https://cdn.modrinth.com/data/DKY9btbd/versions/EZl3moba/worldguard-bukkit-7.0.16.jar?mr_download_reason=standalone&mr_game_version=26.1.2&mr_loader=spigot"
+          },
+          "Folia": {
+            "url": "https://cdn.modrinth.com/data/DKY9btbd/versions/EZl3moba/worldguard-bukkit-7.0.16.jar?mr_download_reason=standalone&mr_game_version=26.1.2&mr_loader=folia"
+          },
+          "bukkit": {
+            "url": "https://cdn.modrinth.com/data/DKY9btbd/versions/EZl3moba/worldguard-bukkit-7.0.16.jar?mr_download_reason=standalone&mr_game_version=26.1.2&mr_loader=bukkit"
+          }
+        },
+        "dependencies": [
+          "WorldEdit"
+        ]
+      }
+    }
+  },
+  "PlaceholderAPI": {
+    "latest": "2.12.2",
+    "versions": {
+      "2.12.2": {
+        "platforms": {
+          "paper": {
+            "url": "https://github.com/PlaceholderAPI/PlaceholderAPI/releases/download/2.12.2/PlaceholderAPI-2.12.2.jar"
+          },
+          "spigot": {
+            "url": "https://github.com/PlaceholderAPI/PlaceholderAPI/releases/download/2.12.2/PlaceholderAPI-2.12.2.jar"
+          },
+          "bukkit": {
+            "url": "https://github.com/PlaceholderAPI/PlaceholderAPI/releases/download/2.12.2/PlaceholderAPI-2.12.2.jar"
+          }
+        }
+      }
+    }
+  },
+  "coreprotect": {
+    "latest": "23.2",
+    "versions": {
+      "23.2": {
+        "platforms": {
+          "paper": {
+            "url": "https://cdn.modrinth.com/data/Lu3KuzdV/versions/6W2ad1iI/CoreProtect-CE-23.2.jar?mr_download_reason=standalone&mr_game_version=1.21.11&mr_loader=paper"
+          },
+          "spigot": {
+            "url": "https://cdn.modrinth.com/data/Lu3KuzdV/versions/6W2ad1iI/CoreProtect-CE-23.2.jar?mr_download_reason=standalone&mr_game_version=1.21.11&mr_loader=spigot"
+          },
+          "Folia": {
+            "url": "https://cdn.modrinth.com/data/Lu3KuzdV/versions/6W2ad1iI/CoreProtect-CE-23.2.jar?mr_download_reason=standalone&mr_game_version=1.21.11&mr_loader=folia"
+          },
+          "bukkit": {
+            "url": "https://cdn.modrinth.com/data/Lu3KuzdV/versions/6W2ad1iI/CoreProtect-CE-23.2.jar?mr_download_reason=standalone&mr_game_version=1.21.11&mr_loader=bukkit"
+          },
+          "purpur": {
+            "url": "https://cdn.modrinth.com/data/Lu3KuzdV/versions/6W2ad1iI/CoreProtect-CE-23.2.jar?mr_download_reason=standalone&mr_game_version=1.21.11&mr_loader=purpur"
+          }
+        }
+      }
+    }
+  },
+  "ViaVersion": {
+    "latest": "5.9.1",
+    "versions": {
+      "5.9.1": {
+        "platforms": {
+          "paper": {
+            "url": "https://github.com/ViaVersion/ViaVersion/releases/download/5.9.1/ViaVersion-5.9.1.jar"
+          },
+          "spigot": {
+            "url": "https://github.com/ViaVersion/ViaVersion/releases/download/5.9.1/ViaVersion-5.9.1.jar"
+          }
+        }
+      }
+    }
+  },
+  "ViaBackwards": {
+    "latest": "5.9.1",
+    "versions": {
+      "5.9.1": {
+        "platforms": {
+          "paper": {
+            "url": "https://github.com/ViaVersion/ViaBackwards/releases/download/5.9.1/ViaBackwards-5.9.1.jar"
+          },
+          "spigot": {
+            "url": "https://github.com/ViaVersion/ViaBackwards/releases/download/5.9.1/ViaBackwards-5.9.1.jar"
+          },
+          "bukkit": {
+            "url": "https://github.com/ViaVersion/ViaBackwards/releases/download/5.9.1/ViaBackwards-5.9.1.jar"
+          },
+          "purpur": {
+            "url": "https://github.com/ViaVersion/ViaBackwards/releases/download/5.9.1/ViaBackwards-5.9.1.jar"
+          }
+        }
+      }
+    }
+  },
+    "ViaRewind": {
+      "latest": "4.1.1",
+      "versions": {
+        "4.1.1": {
+          "platforms": {
+            "paper": {
+              "url": "https://github.com/ViaVersion/ViaRewind/releases/download/4.1.1/ViaRewind-4.1.1.jar"
+            },
+            "spigot": {
+              "url": "https://github.com/ViaVersion/ViaRewind/releases/download/4.1.1/ViaRewind-4.1.1.jar"
+            },
+            "bukkit": {
+              "url": "https://github.com/ViaVersion/ViaRewind/releases/download/4.1.1/ViaRewind-4.1.1.jar"
+            },
+            "purpur": {
+              "url": "https://github.com/ViaVersion/ViaRewind/releases/download/4.1.1/ViaRewind-4.1.1.jar"
+            }
+          }
+        }
+      }
+  },
+  "FastAsyncWorldEdit": {
+    "latest": "2.15.0",
+    "versions": {
+      "2.15.0": {
+        "platforms": {
+          "paper": {
+            "url": "https://github.com/IntellectualSites/FastAsyncWorldEdit/releases/download/2.15.0/FastAsyncWorldEdit-Paper-2.15.0.jar"
+          },
+          "bukkit": {
+            "url": "https://github.com/IntellectualSites/FastAsyncWorldEdit/releases/download/2.15.0/FastAsyncWorldEdit-Bukkit-2.15.0.jar"
+          }
+        }
+      }
+    }
+  },
+  "BlockLocker": {
+    "latest": "1.14",
+    "versions": {
+      "1.14": {
+        "platforms": {
+          "paper": {
+            "url": "https://github.com/rutgerkok/BlockLocker/releases/download/v1.14.1/blocklocker-1.14.1.jar"
+          },
+          "spigot": {
+            "url": "https://github.com/rutgerkok/BlockLocker/releases/download/v1.14.1/blocklocker-1.14.1.jar"
+          },
+          "bukkit": {
+            "url": "https://github.com/rutgerkok/BlockLocker/releases/download/v1.14.1/blocklocker-1.14.1.jar"
+          }
+        }
+      }
+    }
+  },
+  "Multiverse-Core": {
+    "latest": "5.6.2",
+    "versions": {
+      "5.6.2": {
+        "platforms": {
+          "bukkit": {
+            "url": "https://github.com/Multiverse/Multiverse-Core/releases/download/5.6.2/multiverse-core-5.6.2.jar"
+          }
+        }
+      }
+    }
+  },
+  "Multiverse-Nether-Portals": {
+    "latest": "5.0.4",
+    "versions": {
+      "5.0.4": {
+        "platforms": {
+          "bukkit": {
+            "url": "https://github.com/Multiverse/Multiverse-NetherPortals/releases/download/5.0.4/multiverse-netherportals-5.0.4.jar"
+          }
+        }
+      }
+    }
+  },
+  "Multiverse-Portals": {
+    "latest": "5.2.2",
+    "versions": {
+      "5.2.2": {
+        "platforms": {
+          "bukkit": {
+            "url": "https://github.com/Multiverse/Multiverse-Portals/releases/download/5.2.2/multiverse-portals-5.2.2.jar"
+          }
+        }
+      }
+    }
+  },
+  "Multiverse-Inventories": {
+    "latest": "5.3.3",
+    "versions": {
+      "5.3.3": {
+        "platforms": {
+          "bukkit": {
+            "url": "https://github.com/Multiverse/Multiverse-Inventories/releases/download/5.3.3/multiverse-inventories-5.3.3.jar"
+          }
+        }
+      }
+    }
+  },
+  "Multiverse-SignPortals": {
+    "latest": "5.3.3",
+    "versions": {
+      "5.3.3": {
+        "platforms": {
+          "bukkit": {
+            "url": "https://github.com/Multiverse/Multiverse-SignPortals/releases/download/5.0.2/multiverse-signportals-5.0.2.jar"
+          }
+        }
+      }
+    }
+  },
+  "DiscordSRV": {
+    "latest": "1.30.5",
+    "versions": {
+      "1.30.5": {
+        "platforms": {
+          "bukkit": {
+            "url": "https://github.com/DiscordSRV/DiscordSRV/releases/download/v1.30.5/DiscordSRV-Build-1.30.5.jar"
+          },
+          "paper": {
+            "url": "https://github.com/DiscordSRV/DiscordSRV/releases/download/v1.30.5/DiscordSRV-Build-1.30.5.jar"
+          },
+          "spigot": {
+            "url": "https://github.com/DiscordSRV/DiscordSRV/releases/download/v1.30.5/DiscordSRV-Build-1.30.5.jar"
+          },
+          "Folia": {
+            "url": "https://github.com/DiscordSRV/DiscordSRV/releases/download/v1.30.5/DiscordSRV-Build-1.30.5.jar"
+          },
+          "purpur": {
+            "url": "https://github.com/DiscordSRV/DiscordSRV/releases/download/v1.30.5/DiscordSRV-Build-1.30.5.jar"
+          }
+        }
+      }
+    }
+  },
+  "GeyserMC": {
+    "latest": "1150",
+    "versions": {
+      "1150": {
+        "platforms": {
+          "spigot": {
+            "url": "https://download.geysermc.org/v2/projects/geyser/versions/latest/builds/latest/downloads/spigot"
+          }
+        }
+      }
+    }
+  },
+  "Floodgate": {
+    "latest": "132",
+    "versions": {
+      "132": {
+        "platforms": {
+          "spigot": {
+            "url": "https://download.geysermc.org/v2/projects/floodgate/versions/latest/builds/latest/downloads/spigot"
+          }
+        }
+      }
+    }
+  },
+  "DeluxeMenus": {
+  "latest": "1.14.1",
+  "versions": {
+    "1.14.1": {
+      "platforms": {
+        "spigot": {
+          "url": "https://cdn.modrinth.com/data/kKZkPgJ7/versions/PNKQ6RMs/DeluxeMenus-1.14.1-Release.jar?mr_download_reason=standalone&mr_game_version=1.21.8&mr_loader=spigot"
+        },
+        "bukkit": {
+          "url": "https://cdn.modrinth.com/data/kKZkPgJ7/versions/PNKQ6RMs/DeluxeMenus-1.14.1-Release.jar?mr_download_reason=standalone&mr_game_version=1.21.8&mr_loader=bukkit"
+        },
+        "paper": {
+          "url": "https://cdn.modrinth.com/data/kKZkPgJ7/versions/PNKQ6RMs/DeluxeMenus-1.14.1-Release.jar?mr_download_reason=standalone&mr_game_version=1.21.8&mr_loader=paper"
+        }
+      }
+    }
+  }
+  },
+  "Towny": {
+    "latest": "0.103.0.0",
+    "versions": {
+      "0.103.0.0": {
+        "platforms": {
+          "Paper": {
+            "url": "https://cdn.modrinth.com/data/Vs77PB2W/versions/RIFbvOl9/Towny-0.103.0.0.jar?mr_download_reason=standalone&mr_game_version=26.1.2&mr_loader=paper"
+          },
+          "purpur": {
+            "url": "https://cdn.modrinth.com/data/Vs77PB2W/versions/RIFbvOl9/Towny-0.103.0.0.jar?mr_download_reason=standalone&mr_game_version=26.1.2&mr_loader=purpur"
+          },
+          "Folia": {
+            "url": "https://cdn.modrinth.com/data/Vs77PB2W/versions/RIFbvOl9/Towny-0.103.0.0.jar?mr_download_reason=standalone&mr_game_version=26.1.2&mr_loader=Folia"
+          }
+        }
+      },
+      "0.101.2.0": {
+        "platforms": {
+          "spigot": {
+            "url": "https://cdn.modrinth.com/data/Vs77PB2W/versions/n3T5s1i0/Towny-0.101.2.0.jar?mr_download_reason=standalone&mr_game_version=1.21.7&mr_loader=spigot"
+          },
+          "bukkit": {
+            "url": "https://cdn.modrinth.com/data/Vs77PB2W/versions/n3T5s1i0/Towny-0.101.2.0.jar?mr_download_reason=standalone&mr_game_version=1.21.7&mr_loader=bukkit"
+          }
+        },
+        "minecraftVersions": ["1.21.7,1.21.6,1.21.5,1.21.4,1.21.3,1.21.2,1.21.1,1.21,1.20"]
+      }
+    }
+  },
+  "TownyChat": {
+    "latest": "0.121",
+    "versions": {
+      "0.121": {
+        "platforms": {
+          "Paper": {
+            "url": "https://github.com/TownyAdvanced/TownyChat/releases/download/0.121/TownyChat-0.121.jar"
+          },
+          "purpur": {
+            "url": "https://github.com/TownyAdvanced/TownyChat/releases/download/0.121/TownyChat-0.121.jar"
+          },
+          "Folia": {
+            "url": "https://github.com/TownyAdvanced/TownyChat/releases/download/0.121/TownyChat-0.121.jar"
+          }
+        }
+      }
+    }
+  },
+  "TownyFlight": {
+    "latest": "1.15.1",
+    "versions": {
+      "1.15.1": {
+        "platforms": {
+          "Paper": {
+            "url": "https://github.com/TownyAdvanced/TownyFlight/releases/download/1.15.1/TownyFlight-1.15.1.jar"
+          },
+          "purpur": {
+            "url": "https://github.com/TownyAdvanced/TownyFlight/releases/download/1.15.1/TownyFlight-1.15.1.jar"
+          },
+          "Folia": {
+            "url": "https://github.com/TownyAdvanced/TownyFlight/releases/download/1.15.1/TownyFlight-1.15.1.jar"
+          }
+        }
+      }
+    }
+  },
+  "TownyMenu": {
+    "latest": "1.15.1",
+    "versions": {
+      "1.15.1": {
+        "platforms": {
+          "Paper": {
+            "url": "https://github.com/cobrex1/TownyMenu/releases/download/2.0.5/TownyMenu-2.0.5.jar"
+          },
+          "purpur": {
+            "url": "https://github.com/cobrex1/TownyMenu/releases/download/2.0.5/TownyMenu-2.0.5.jar"
+          },
+          "Folia": {
+            "url": "https://github.com/cobrex1/TownyMenu/releases/download/2.0.5/TownyMenu-2.0.5.jar"
+          }
+        }
+      }
+    }
+  },
+  "Skript": {
+    "latest": "2.15.2",
+    "versions": {
+      "2.15.2": {
+        "platforms": {
+          "Paper": {
+            "url": "https://github.com/SkriptLang/Skript/releases/download/2.15.2/Skript-2.15.2.jar"
+          },
+          "purpur": {
+            "url": "https://github.com/SkriptLang/Skript/releases/download/2.15.2/Skript-2.15.2.jar"
+          },
+          "Folia": {
+            "url": "https://github.com/SkriptLang/Skript/releases/download/2.15.2/Skript-2.15.2.jar"
+          }
+        }
+      }
+    }
+  },
+  "QuickShop-Hikari": {
+    "latest": "6.2.0.11",
+    "versions": {
+      "6.2.0.11": {
+        "platforms": {
+          "Paper": {
+            "url": "https://github.com/QuickShop-Community/QuickShop-Hikari/releases/download/6.2.0.11/QuickShop-Hikari-6.2.0.11.jar"
+          },
+          "purpur": {
+            "url": "https://github.com/QuickShop-Community/QuickShop-Hikari/releases/download/6.2.0.11/QuickShop-Hikari-6.2.0.11.jar"
+          },
+          "Folia": {
+            "url": "https://github.com/QuickShop-Community/QuickShop-Hikari/releases/download/6.2.0.11/QuickShop-Hikari-6.2.0.11.jar"
+          }
+        },
+        "dependencies": [
+          "Vault","Essentials"
+        ],
+        "recommended": [
+          "ProtocolLib"
+        ]
+      }
+    }
+  },
+  "ProtocolLib": {
+    "latest": "5.4.0",
+    "versions": {
+      "5.4.0": {
+        "platforms": {
+          "Paper": {
+            "url": "https://github.com/dmulloy2/ProtocolLib/releases/download/5.4.0/ProtocolLib.jar"
+          },
+          "purpur": {
+            "url": "https://github.com/dmulloy2/ProtocolLib/releases/download/5.4.0/ProtocolLib.jar"
+          },
+          "Folia": {
+            "url": "https://github.com/dmulloy2/ProtocolLib/releases/download/5.4.0/ProtocolLib.jar"
+          }
+        }
+      }
+    }
+  }
+}
